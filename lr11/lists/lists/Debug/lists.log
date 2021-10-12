@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\admin\documents\visual studio 2015\оп911\lab11\lists\lists\main.cpp(138): warning C4101: a: неиспользованная локальная переменная
+  lists.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab11\lists\Debug\lists.exe
+  lists.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab11\lists\Debug\lists.pdb (Full PDB)

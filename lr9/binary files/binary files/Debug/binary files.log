@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Header.cpp
+c:\users\admin\documents\visual studio 2015\оп911\lab9\binary files\binary files\header.cpp(51): warning C4244: аргумент: преобразование "double" в "__int64", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\оп911\lab9\binary files\binary files\header.cpp(52): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  Создание кода...
+  binary files.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab9\binary files\Debug\binary files.exe
+  binary files.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab9\binary files\Debug\binary files.pdb (Full PDB)

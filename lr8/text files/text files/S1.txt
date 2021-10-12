@@ -1,0 +1,2 @@
+It is simple. And this is already very difficult, George.
+This API cannot be used in applications that execute in the Windows Runtime.

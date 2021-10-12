@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\admin\documents\visual studio 2015\оп911\lab6\dynamic_arrays\dynamic_arrays\source.cpp(22): warning C4305: инициализация: усечение из "double" к "float"
+c:\users\admin\documents\visual studio 2015\оп911\lab6\dynamic_arrays\dynamic_arrays\source.cpp(90): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\оп911\lab6\dynamic_arrays\dynamic_arrays\source.cpp(109): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\admin\documents\visual studio 2015\оп911\lab6\dynamic_arrays\dynamic_arrays\source.cpp(132): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  dynamic_arrays.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab6\dynamic_arrays\Debug\dynamic_arrays.exe
+  dynamic_arrays.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\ОП911\lab6\dynamic_arrays\Debug\dynamic_arrays.pdb (Full PDB)
